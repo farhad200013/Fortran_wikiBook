@@ -8,4 +8,4 @@ Let the "Hello World!" print on your screen!
 :)
 
 
-* Based on Fortran 95 standard.
+/* Based on Fortran 95 standard.
