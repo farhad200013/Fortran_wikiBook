@@ -1,0 +1,8 @@
+The Eclipse IDE was  chosen to work with. 
+Cygwin installation.
+The Cygwin package list is added as a PNG file. 
+Adding entries ,system properties, environment variables, edit PATH , C:\cygwin64\bin, C:\cygwin64\usr\x86_64-pc-cygwin\bin, C:\cygwin64\usr\i686-pc-cygwin\bin, C:\cygwin64\usr\local\bin
+ C:\cygwin64\lib, C:\cygwin64\usr\lib
+ 
+ From: https://www.youtube.com/watch?v=7-0w_WysFrI
+ 
