@@ -1,3 +1,5 @@
+!source of this material is from: Derek Banana's YouTube. https://www.youtube.com/watch?v=__2UgFNYgf8
+
 ! Name of program
 ! The f90 extension can be used for
 ! Fortran 2003 code
