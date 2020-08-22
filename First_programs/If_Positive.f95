@@ -4,6 +4,6 @@
         real x
         print *, "What is your number ?"
         read *, x
-        if (x .gt. 0) then print *, "Your number is positive."
+        if (x .gt. 0) print *, "Your number is positive."
         print *, "Bye"
         end
